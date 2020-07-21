@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\TestHost\TestHost\TestHost\bin\TestHost.dll.config
+C:\Users\lenovo\source\repos\TestHost\TestHost\TestHost\bin\TestHost.dll
+C:\Users\lenovo\source\repos\TestHost\TestHost\TestHost\bin\TestHost.pdb
+C:\Users\lenovo\source\repos\TestHost\TestHost\TestHost\obj\Debug\TestHost.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\TestHost\TestHost\TestHost\obj\Debug\TestHost.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\TestHost\TestHost\TestHost\obj\Debug\TestHost.dll
+C:\Users\lenovo\source\repos\TestHost\TestHost\TestHost\obj\Debug\TestHost.pdb
